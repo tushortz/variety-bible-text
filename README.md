@@ -1,6 +1,6 @@
 # variety bible text
 
-To be used for displaying random verses on linux computer that supports the variety application
+To be used for displaying random verses on the desktop of linux computer that supports the variety application
 
 ## How to use
 Install variety from the terminal 
